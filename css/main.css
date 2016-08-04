@@ -1,0 +1,78 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:100,100italic);
+html {
+  position: relative;
+  min-height: 100%;
+  color: #fff;
+}
+body{
+	background-color: #669933;
+	/* Margin bottom by footer height */
+  	margin-bottom: 100px;
+}
+a{
+	color: #fff;
+}
+.navbar-color{
+	background-color: #669933;
+	border-color: white;
+	min-height: 60px;
+	border-width: 0 0 1px;
+	border-radius: 0;
+}
+.logo{
+	font-family: 'Lato', sans-serif;
+	font-weight: 100;
+	font-size: 34px;
+	font-style: italic;
+	color: #fff;
+}
+.text{
+	color: #fff;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 100px;
+  background-color: #669933;
+  border-top: 1px solid #fff;
+}
+.road-bottom{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+.img-size{
+	margin-top: 30px;
+	margin-bottom: 40px;
+	width: 100%;
+}
+.appeal{
+	font-family: 'Lato', sans-serif;
+	font-weight: 800;
+	font-size: 20px;
+	font-style: bold;
+}
+.space{
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+.text-size{
+	font-family: 'Lato',sans-serif;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 1.7;
+}
+.goal{
+	font-family: 'Lato',sans-serif;
+	line-height: 1.7;
+	font-size: 16px;
+	font-weight: 600;
+	margin-top: 30px; 
+}
+footer p{
+	font-size: 13px;
+	font-family: 'Lato';
+	font-weight: 300;
+	padding-top: 40px;
+}
