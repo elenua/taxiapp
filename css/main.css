@@ -24,10 +24,13 @@ body{
 }
 .navbar-default .navbar-brand.logo{
 	font-family: 'Lato', sans-serif;
-	font-weight: 100;
+	font-weight: 600;
 	font-size: 34px;
 	font-style: italic;
 	color: #fff;
+}
+.page-header-custom{
+	margin: 0px 0 20px;
 }
 .text{
 	color: #fff;
@@ -42,8 +45,9 @@ body{
   border-top: 1px solid #fff;
 }
 .road-bottom{
-	margin-top: 25px;
+	margin-top: 15px;
 	margin-bottom: 25px;
+	width: 100%;
 }
 .img-size{
 	margin-top: 30px;
