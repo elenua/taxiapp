@@ -6,7 +6,11 @@ html {
   color: #fff;
 }
 body{
-	background-color: #669933;
+	background: -webkit-linear-gradient(#669933, #84b531); /* For Safari */
+	background: -o-linear-gradient(#669933, #84b531); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(#669933, #84b531); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(#669933, #84b531); /* Standard syntax (must be last) */
+	margin: 0px;
 	/* Margin bottom by footer height */
   	margin-bottom: 100px;
 }
@@ -42,7 +46,7 @@ body{
   width: 100%;
   /* Set the fixed height of the footer here */
   height: 100px;
-  background-color: #669933;
+  background-color: #84b531;
   border-top: 1px solid #fff;
 }
 .road-bottom{
@@ -84,4 +88,7 @@ footer p{
 	font-family: 'Lato';
 	font-weight: 100;
 	padding-top: 40px;
+}
+footer ul{
+	padding-top: 25px;
 }
