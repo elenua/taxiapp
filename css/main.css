@@ -6,6 +6,7 @@ html {
   color: #fff;
 }
 body{
+	background: #669933; /* For browsers that do not support gradients */
 	background: -webkit-linear-gradient(#669933, #84b531); /* For Safari */
 	background: -o-linear-gradient(#669933, #84b531); /* For Opera 11.1 to 12.0 */
 	background: -moz-linear-gradient(#669933, #84b531); /* For Firefox 3.6 to 15 */
