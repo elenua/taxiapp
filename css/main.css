@@ -20,6 +20,9 @@ body{
 	color: #fff;
 
 }
+.white{
+	color: #fff;
+}
 .navbar-custom{
 	background-color: #669933;
 	border-color: white;
@@ -82,14 +85,15 @@ body{
 	font-size: 18px;
 	font-weight: 300;
 	margin-top: 25px;
-	margin-bottom: 54px; 
+	margin-bottom: 54px;
+	color: #fff; 
 }
 footer p{
 	font-size: 13px;
 	font-family: 'Lato';
 	font-weight: 100;
-	padding-top: 40px;
+	padding-top: 38px;
 }
 footer ul{
-	padding-top: 25px;
+	padding-top: 30px;
 }
