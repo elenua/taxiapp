@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:100,300,300italic,100italic,700);
 html {
   position: relative;
-  min-height: 100%;
+  		min-height: 100%;
 }
 body{
 	background: #5d811d; /* For browsers that do not support gradients */
@@ -13,15 +13,23 @@ body{
 	/* Margin bottom by footer height */
   	margin-bottom: 100px;
 }
+.navbar-default .navbar-nav>li{
+	border: #3e3e3c solid 2px;
+	border-radius: 4px;
+	width: 75px;
+	margin-top: 19px;
+	margin-right: 20px;
+}
 
 .navbar-default .navbar-nav>li>a{
-	color: #fff;
 	font-family: 'Lato', sans-serif;
 	font-weight: 600;
-	font-size: 16px;
+	font-size: 12px;
+	color: #fff;
+	padding: 3px 10px;
 }
 .white{
-	color: #f5f5f5;
+	color: #fff;
 }
 .navbar-custom{
 	background-color: #5d811d;
@@ -29,7 +37,6 @@ body{
 	min-height: 60px;
 	border-width: 0 0 1px;
 	border-radius: 0;
-	margin-top: 10px;
 }
 .navbar-default .navbar-brand.logo{
 	font-family: 'Lato', sans-serif;
@@ -37,12 +44,13 @@ body{
 	font-size: 48px;
 	font-style: italic;
 	color: #fff;
+	margin-top: 3px;
+	margin-bottom: 13px;
 }
+
+	/*Container*/
 .page-header-custom{
 	margin: 0px 0 20px;
-}
-.text{
-	color: #fff;
 }
 .footer {
   position: absolute;
@@ -100,6 +108,8 @@ body{
 .contact h5{
 	color: #c70947;
 }
+	/*End container*/
+
 footer p{
 	font-size: 16px;
 	font-family: 'Lato',sans-serif;
