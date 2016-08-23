@@ -14,7 +14,7 @@ body{
   	margin-bottom: 100px;
 }
 .navbar-default .navbar-nav>li{
-	border: #3e3e3c solid 2px;
+	border: #e7e7e7 solid 2px;
 	border-radius: 4px;
 	width: 75px;
 	margin-top: 19px;
@@ -57,18 +57,20 @@ body{
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 100px;
+  height: 55px;
   background-color: #84b531;
   border-top: 1px solid #fff;
 }
 .road-bottom{
-	margin-top: 15px;
-	margin-bottom: 25px;
+	margin-top: 67px;
 	width: 100%;
 }
 .img-size{
 	margin-top: 40px;
 	margin-bottom: 25px;
+	width: 100%;
+}
+.video-size{
 	width: 100%;
 }
 .appeal{
@@ -84,11 +86,9 @@ body{
 .text-size{
 	font-family: 'Lato',sans-serif;
 	font-size: 18px;
-	line-height: 1.7;
 }
 .goal{
 	font-family: 'Lato',sans-serif;
-	line-height: 1.7;
 	font-size: 18px;
 	margin-top: 25px;
 	margin-bottom: 54px;
@@ -97,7 +97,7 @@ body{
 .contact p{
 	font-family: 'Lato',sans-serif;
 	font-size: 18px;
-	margin-top: 55px;
+	margin-top: 25px;
 	color: #fff; 
 }
 .contact h3, h4{
@@ -113,8 +113,8 @@ body{
 footer p{
 	font-size: 16px;
 	font-family: 'Lato',sans-serif;
-	padding-top: 38px;
+	padding-top: 15px;
 }
 footer ul{
-	padding-top: 30px;
+	padding-top: 7px;
 }
