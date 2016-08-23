@@ -14,7 +14,7 @@ body{
   	margin-bottom: 100px;
 }
 .navbar-default .navbar-nav>li{
-	border: #e7e7e7 solid 2px;
+	border: #e7e7e7 solid 1px;
 	border-radius: 4px;
 	width: 75px;
 	margin-top: 19px;
