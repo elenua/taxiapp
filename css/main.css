@@ -52,14 +52,13 @@ body{
 	display: inline-block;
 	margin-top: 3px;
 	margin-right: 6px;
+	margin-bottom: 5px;
 }
 .container .visible-xs .logo{
 	font-weight: 300;
 	font-size: 24px;
 	float: none;
 }
-
-
 	/*Container*/
 .page-header-custom{
 	margin: 0px 0 20px;
