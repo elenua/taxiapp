@@ -61,7 +61,10 @@ body{
 }
 	/*Container*/
 .page-header-custom{
-	margin: 0px 0 20px;
+	margin: 0px 0 18px;
+}
+.page-header-custom h1{
+	margin-bottom: 40px;
 }
 .footer {
   position: absolute;
@@ -73,7 +76,6 @@ body{
   border-top: 1px solid #fff;
 }
 .road-bottom{
-	margin-top: 67px;
 	width: 100%;
 }
 .img-size{
