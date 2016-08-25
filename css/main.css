@@ -65,7 +65,7 @@ body{
 	margin: 0px 0 18px;
 }
 .page-header-custom h1{
-	margin-bottom: 40px;
+	margin-bottom: 25px;
 }
 .footer {
   position: absolute;
@@ -112,17 +112,32 @@ body{
 .contact p{
 	font-family: 'Lato',sans-serif;
 	font-size: 18px;
-	margin-top: 25px;
+	margin-top: 5px;
 	color: #fff; 
 }
 .contact h3, h4{
 	font-family: 'Lato',sans-serif;
 	line-height: 1.7;
-	margin-top: 25px;
 }
 .contact h5{
 	color: #c70947;
 }
+.mail{
+	font-size: 2em;
+    margin-top: 43px;
+}
+.mail a{
+	color: #4500c7;
+}
+.mail a:hover{
+	color: #337ab7;
+}
+.video-margin{
+	margin-top: 33px;
+}
+
+
+
 	/*End container*/
 
 footer p{
