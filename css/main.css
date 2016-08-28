@@ -52,11 +52,12 @@ body{
 	display: inline-block;
 	margin-top: 3px;
 	margin-bottom: 7px;
-	width: 65px;
-	margin-right: 0px;
+	width: 67px;
+	margin-right: 3px;
+
 }
 .container .visible-xs .nav>li>a{
-	padding: 0px 0px;
+	padding: 3px 0px;
 }
 .container .visible-xs .logo{
 	font-weight: 300;
