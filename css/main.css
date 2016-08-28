@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:100,300,300italic,100italic,700);
 html {
   position: relative;
-  		min-height: 100%;
+  min-height: 100%;
 }
 body > .container{
 	    padding: 83px 15px 0;
@@ -74,15 +74,7 @@ body{
 .page-header-custom h1{
 	margin-bottom: 25px;
 }
-.footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  /* Set the fixed height of the footer here */
-  height: 55px;
-  background-color: #84b531;
-  border-top: 1px solid #fff;
-}
+
 .road-bottom{
 	width: 100%;
 }
@@ -146,12 +138,23 @@ body{
 
 
 	/*End container*/
-
-footer p{
-	font-size: 16px;
-	font-family: 'Lato',sans-serif;
-	padding-top: 15px;
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 35px;
+  background-color: #5d811d;
+  border-top: 1px solid #fff;
 }
-footer ul{
-	padding-top: 7px;
+footer p{
+	font-size: 15px;
+	font-family: 'Lato',sans-serif;
+	line-height: 1.1;
+}
+#icon{
+	margin-top: 4px;
+}
+footer .social-icon>li>a{
+	color: #1e5fc3;
 }
