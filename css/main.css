@@ -13,7 +13,7 @@ body{
 	/* Margin bottom by footer height */
   	margin-bottom: 100px;
 }
-.navbar-default .navbar-nav>li{
+.navbar .navbar-nav>li{
 	border: #e7e7e7 solid 1px;
 	border-radius: 4px;
 	width: 75px;
@@ -21,7 +21,7 @@ body{
 	margin-right: 20px;
 }
 
-.navbar-default .navbar-nav>li>a{
+.navbar .navbar-nav>li>a{
 	font-family: 'Lato', sans-serif;
 	font-weight: 600;
 	font-size: 12px;
@@ -31,6 +31,9 @@ body{
 .white{
 	color: #fff;
 }
+.yellow{
+	color: #fbf649;
+}
 
 .navbar-custom{
 	background-color: #5d811d;
@@ -38,8 +41,9 @@ body{
 	min-height: 60px;
 	border-width: 0 0 1px;
 	border-radius: 0;
+	margin-top: 10px;
 }
-.navbar-default .navbar-brand.logo{
+.navbar .navbar-brand.logo{
 	font-family: 'Lato', sans-serif;
 	font-weight: 100;
 	font-size: 48px;
