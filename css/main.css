@@ -3,6 +3,9 @@ html {
   position: relative;
   		min-height: 100%;
 }
+body > .container{
+	    padding: 83px 15px 0;
+}
 body{
 	background: #5d811d; /* For browsers that do not support gradients */
 	background: -webkit-linear-gradient(#5d811d, #84b531); /* For Safari */
@@ -11,7 +14,7 @@ body{
 	background: linear-gradient(#5d811d, #84b531); /* Standard syntax (must be last) */
 	margin: 0px;
 	/* Margin bottom by footer height */
-  	margin-bottom: 100px;
+  	margin-bottom: 60px;
 }
 .navbar .navbar-nav>li{
 	border: #e7e7e7 solid 1px;
@@ -37,7 +40,6 @@ body{
 	min-height: 60px;
 	border-width: 0 0 1px;
 	border-radius: 0;
-	margin-top: 10px;
 }
 .navbar .navbar-brand.logo{
 	font-family: 'Lato', sans-serif;
