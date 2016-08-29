@@ -50,19 +50,16 @@ body{
 	font-size: 48px;
 	font-style: italic;
 	color: #fff;
-	margin-top: 3px;
-	margin-bottom: 13px;
 }
 .container .visible-xs .nav>li{
 	display: inline-block;
 	margin-top: 3px;
-	margin-bottom: 7px;
 	width: 67px;
 	margin-right: 3px;
 
 }
 .container .visible-xs .nav>li>a{
-	padding: 3px 0px;
+	padding: 2px 0px;
 }
 .container .visible-xs .logo{
 	font-weight: 300;
