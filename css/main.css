@@ -107,16 +107,19 @@ body{
 .text-style{
 	font-family: 'Lato', sans-serif;
 	font-size: 18px;
-	margin-top: 19px;
-	line-height: 1.6;
+	margin-top: 25px;
+	line-height: 1.4;
 	text-align: justify;
+}
+.public p{
+	margin-top: 0px;
 }
 .contact h5{
 	color: #c70947;
 }
 .mail{
-	font-size: 22px;
-    margin-top: 43px;
+	font-size: 18px;
+    margin-top: 19px;
 }
 .mail a{
 	color: #4500c7;
@@ -146,7 +149,7 @@ footer p{
 	line-height: 1.1;
 }
 footer .white{
-	margin-top: 8px;
+	margin-top: 4px;
 }
 #icon{
 	margin-top: 1px;
