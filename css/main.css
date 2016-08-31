@@ -63,8 +63,11 @@ body{
 	margin-right: 3px;
 
 }
+.container .visible-xs .navbar-nav-custom{
+	margin-top: 0px;
+}
 .container .visible-xs .nav>li>a{
-	padding: 2px 0px;
+	padding: 4px 0px;
 }
 .container .visible-xs .logo{
 	font-weight: 300;
