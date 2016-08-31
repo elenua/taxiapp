@@ -143,7 +143,7 @@ body{
   width: 100%;
   /* Set the fixed height of the footer here */
   height: 35px;
-  background-color: #5d811d;
+  background-color: #2b4006;
   border-top: 1px solid #fff;
 }
 footer p{
@@ -155,5 +155,5 @@ footer p{
 	margin-top: 4px;
 }
 footer .social-icon>li>a{
-	color: #1e5fc3;
+	color: #2f78ea;
 }
