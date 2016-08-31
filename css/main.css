@@ -124,7 +124,7 @@ body{
     margin-top: 19px;
 }
 .mail a{
-	color: #4500c7;
+	color: initial;
 }
 .mail a:hover{
 	color: #337ab7;
