@@ -77,6 +77,10 @@ body{
 	margin-bottom: 25px;
 	font-weight: 600;
 }
+.about h2{
+	font-family: 'Lato',sans-serif;
+	font-weight: 600;
+}
 .road-bottom{
 	width: 100%;
 }
@@ -112,9 +116,9 @@ body{
 	margin-top: 5px;
 	color: #fff; 
 }
-.contact h3, h4{
+.contact h2, h4{
 	font-family: 'Lato',sans-serif;
-	line-height: 1.4;
+	line-height: 1.1;
 	font-weight: 600;
 
 }
