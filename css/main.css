@@ -6,6 +6,11 @@ html {
 body > .container{
 	    padding: 83px 15px 0;
 }
+h2, h3, h4{
+	font-family: 'Lato', sans-serif;
+	font-weight: 600;
+	line-height: 1.4;
+}
 body{
 	background: #5d811d; /* For browsers that do not support gradients */
 	background: -webkit-linear-gradient(#5d811d, #84b531); /* For Safari */
@@ -77,10 +82,6 @@ body{
 	margin-bottom: 25px;
 	font-weight: 600;
 }
-.about h2{
-	font-family: 'Lato',sans-serif;
-	font-weight: 600;
-}
 .road-bottom{
 	width: 100%;
 }
@@ -104,29 +105,17 @@ body{
 	margin-bottom: 30px;
 }
 .text-style{
-	font-family: 'Lato',sans-serif;
+	font-family: 'Lato', sans-serif;
 	font-size: 18px;
-	margin-top: 25px;
+	margin-top: 19px;
 	line-height: 1.6;
 	text-align: justify;
-}
-.contact p{
-	font-family: 'Lato',sans-serif;
-	font-size: 18px;
-	margin-top: 5px;
-	color: #fff; 
-}
-.contact h2, h4{
-	font-family: 'Lato',sans-serif;
-	line-height: 1.1;
-	font-weight: 600;
-
 }
 .contact h5{
 	color: #c70947;
 }
 .mail{
-	font-size: 2em;
+	font-size: 22px;
     margin-top: 43px;
 }
 .mail a{
