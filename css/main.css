@@ -126,6 +126,9 @@ body{
 .mail a{
 	color: initial;
 }
+.mail h3{
+	display: inline-block;
+}
 .mail a:hover{
 	color: #337ab7;
 }
