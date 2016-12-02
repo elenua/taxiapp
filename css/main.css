@@ -138,8 +138,8 @@ body{
   width: 100%;
   /* Set the fixed height of the footer here */
   height: 30px;
-  background-color: #2b4006;
-  border-top: 1px solid #fff;
+  background-color: #fff;
+  border-top: 1px solid #7c7c7c;
 }
 footer p{
 	font-size: 12px;
