@@ -113,11 +113,11 @@ body{
 	color: #c70947;
 }
 .mail{
-	font-size: 20px;
+	font-size: 22px;
         margin-top: 19px;
 }
 .mail a{
-	color: initial;
+	color: #0000CC;
 }
 .mail h3{
 	display: inline-block;
