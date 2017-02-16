@@ -86,6 +86,9 @@ body{
 	margin-bottom: 25px;
 	width: 100%;
 }
+.logo-size{
+	height: 40px;
+}
 .video-size{
 	width: 100%;
 }
