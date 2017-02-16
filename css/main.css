@@ -88,6 +88,7 @@ body{
 }
 .logo-size{
 	height: 40px;
+	margin-top: -7px;
 }
 .video-size{
 	width: 100%;
