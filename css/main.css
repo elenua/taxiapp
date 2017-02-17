@@ -90,6 +90,9 @@ body{
 	height: 40px;
 	margin-top: -7px;
 }
+.fb-button{
+	margin-top: 5px;
+}
 .video-size{
 	width: 100%;
 }
