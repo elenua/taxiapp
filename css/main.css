@@ -44,10 +44,10 @@ body{
 }
 .navbar .navbar-brand.logo{
 	font-family: 'Lato', sans-serif;
-	font-weight: 100;
+	font-weight: 800;
 	font-size: 48px;
 	font-style: italic;
-	color: #232323;
+	color:#0932ab;
 }
 .container .visible-xs .nav>li{
 	display: inline-block;
@@ -63,10 +63,9 @@ body{
 	padding: 4px 0px;
 }
 .container .visible-xs .logo{
-	font-weight: 600;
+	font-weight: 300;
 	font-size: 24px;
 	float: none;
-	color:#0932ab;
 }
 
 	/*Containerfile:///D:/Joe-maxi/img/road.jpg*/
