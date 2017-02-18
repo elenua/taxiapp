@@ -63,9 +63,10 @@ body{
 	padding: 4px 0px;
 }
 .container .visible-xs .logo{
-	font-weight: 300;
+	font-weight: 600;
 	font-size: 24px;
 	float: none;
+	color:#0932ab;
 }
 
 	/*Containerfile:///D:/Joe-maxi/img/road.jpg*/
