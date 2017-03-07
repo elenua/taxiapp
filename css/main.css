@@ -1,7 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:100,300,300italic,100italic,700);
 @font-face {
     font-family: ChunkFive;
-    src: url(chunkfive.regular.ttf);
+    src: url(./chunkfive.regular.ttf);
+}
+@font-face{
+	font-family: ArchivoBlack;
+	src: url(./Archivo_Black/ArchivoBlack-Regular.ttf);
 }
 html {
   position: relative;
@@ -47,7 +51,7 @@ body{
 	margin-top: 6px;
 }
 .navbar .navbar-brand.logo{
-	font-family: ChunkFive;
+	font-family: ArchivoBlack;
 	font-size: 40px;
 	color: #0e329a;
 }
