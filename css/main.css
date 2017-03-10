@@ -5,7 +5,7 @@
 }
 @font-face{
 	font-family: ArchivoBlack;
-	src: url(./Archivo_Black/ArchivoBlack-Regular.ttf);
+	src: url(/fonts/Archivo_Black/ArchivoBlack-Regular.ttf);
 }
 html {
   position: relative;
