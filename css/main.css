@@ -53,7 +53,8 @@ body{
 .navbar .navbar-brand.logo{
 	font-family: ArchivoBlack;
 	font-size: 40px;
-	color: #0e329a;
+	color: #1e5ed8;
+	font-weight: bolder;
 }
 .container .visible-xs .nav>li{
 	display: inline-block;
