@@ -1,0 +1,12 @@
+#top-background{
+	background: url(../img/Whistle.png);
+	min-height: 240px;
+	background-size: cover;
+}
+.link{
+	margin-bottom: 10px; 
+}
+.app-link{
+	background-color: #666666;
+	border-color: #666666;
+}
