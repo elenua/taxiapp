@@ -2,7 +2,7 @@
 	background: url(../img/Whistle.png);
 	min-height: 240px;
 	background-size: cover;
-	margin-bottom:50px;
+	margin-bottom: 20px;
 }
 .link{
 	margin-bottom: 10px; 
@@ -10,4 +10,22 @@
 .app-link{
 	background-color: #152364;
 	border-color: #152364;
+	border-radius: 0px;
+	font-family: 'Arial', sans-serif;
+}
+.text{
+	margin-bottom: 40px;
+}
+.down-link{
+	background-color: #000002;
+}
+.install-link{
+	font-family: 'Arial', sans-serif;
+	height: 50px;
+	padding-top: 14px;
+}
+
+.footer p{
+	margin-top: 20px;
+	color: #152364;
 }
